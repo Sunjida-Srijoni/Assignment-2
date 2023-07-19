@@ -210,6 +210,15 @@ nav{
    
 
 }
+.card7{
+    /* border: 10px solid green; */
+    height: 400px;
+    
+}
+.caption7{
+    position: relative;
+    bottom: 300px;
+}
 
 .content{
     width: 270px;
