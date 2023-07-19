@@ -203,6 +203,7 @@ nav{
     width: 280px;
     height: 320px;
 }
+
 .online-title{
     margin-bottom: 20px;
     color: #0B0223;
@@ -380,7 +381,7 @@ nav{
 footer{
     margin-top: 100px;
     background-color: #0B0223;
-    height: 800px;
+    height: 650px;
 
 }
 
@@ -394,7 +395,7 @@ footer{
 }
 
 .frame-icon{
-    margin-top: 100px;
+    margin-top: 150px;
 }
 
 .gamer2{
@@ -405,14 +406,14 @@ footer{
     font-weight: 700;
     line-height: normal;
     color: #FFF;
-    margin-top: 100px;
+    margin-top: 150px;
 }
 .footer2{
     display: flex;
     justify-content: space-around;
     width: 800px;
     margin: 0 auto;
-    margin-top: 40px;
+    margin-top: 80px;
   
 }
 .footer2 a{
@@ -653,6 +654,7 @@ footer{
     }
     footer{
         width: 400px;
+        height: 700px;
         /* border: 2px solid rgb(255, 11, 11); */
     }
 
